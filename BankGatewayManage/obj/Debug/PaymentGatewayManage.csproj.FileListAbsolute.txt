@@ -1,0 +1,7 @@
+E:\Freelancer\BankGatewayManage\BankGatewayManage\bin\Debug\BankGatewayManage.exe.config
+E:\Freelancer\BankGatewayManage\BankGatewayManage\bin\Debug\BankGatewayManage.exe
+E:\Freelancer\BankGatewayManage\BankGatewayManage\bin\Debug\BankGatewayManage.pdb
+E:\Freelancer\BankGatewayManage\BankGatewayManage\obj\Debug\PaymentGatewayManage.csproj.CoreCompileInputs.cache
+E:\Freelancer\BankGatewayManage\BankGatewayManage\obj\Debug\BankGatewayManage.exe
+E:\Freelancer\BankGatewayManage\BankGatewayManage\obj\Debug\BankGatewayManage.pdb
+E:\Freelancer\BankGatewayManage\BankGatewayManage\obj\Debug\PaymentGatewayManage.csprojResolveAssemblyReference.cache
